@@ -36,4 +36,4 @@
 <img align="center" src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin" />
 <img align="center" src="https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome" />
 <img align="center" src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord" />
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=vcyz.vcyz" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Satriouz" />
